@@ -15,9 +15,12 @@ Vite REST API
 Vercel Scrum Figma
 
 📂 Projects
-- [Filmoteka](https://github.com/yourusername/filmoteka) – a movie search web application built with React, REST API, and localStorage. Implemented features include movie search, detailed movie information, and adding items to “Watched” and “Queue” lists.
 
-- [IceCream Landing](https://github.com/yourusername/icecream-team-project) – a responsive landing page for an ice cream brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.  
+- [NoteHub](https://github.com/vladyslav-980/09-auth) – A simple and modern note-taking web application that allows users to create, edit, and delete notes. Built with Vite and TypeScript, focusing on clean UI and structured frontend logic.
+  
+- [Filmoteka](https://github.com/IvankaZhelezniak/team-js-filmoteka) – a movie search web application built with React, REST API, and localStorage. Implemented features include movie search, detailed movie information, and adding items to “Watched” and “Queue” lists.
+
+- [IceCream Landing](https://github.com/Hanna-Serdjuk/icecream-project) – a responsive landing page for an ice cream brand developed in a team, with a focus on responsive design and semantic HTML. Built using HTML5, CSS3 (SASS), and JavaScript, following the BEM methodology.  
 
 🌐 Languages
 
