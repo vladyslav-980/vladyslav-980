@@ -2,11 +2,11 @@
 
 ### Junior Frontend Developer
 
-I'm a Junior Frontend Developer passionate about building modern, responsive, and user-friendly web applications.
+I'm a Junior Frontend Developer focused on building modern, responsive, and user-friendly web applications.
 
-I have hands-on experience developing full-stack applications using **React, Next.js, TypeScript, Node.js, Express.js, and MongoDB**. I enjoy solving real-world problems, integrating REST APIs, writing clean and maintainable code, and collaborating in Agile teams using Git and GitHub.
+I have hands-on experience developing full-stack applications using **React, Next.js, TypeScript, Node.js, Express.js, and MongoDB**. I enjoy solving real-world problems, integrating REST APIs, building reusable UI components, working with forms and state management, and writing clean, maintainable code.
 
-I'm continuously improving my frontend and backend skills while building practical projects.
+I'm continuously improving my frontend and backend skills while building practical projects and preparing for real-world development workflows.
 
 ---
 
@@ -45,7 +45,43 @@ I'm continuously improving my frontend and backend skills while building practic
 
 ---
 
-# 🌟 Featured Project
+# 🌟 Featured Projects
+
+## 👨‍💻 Personal Portfolio
+
+A full-stack personal portfolio website built to present my projects, skills, experience, and contact information in a modern and interactive format.
+
+### Key features
+
+- Built a responsive personal portfolio interface.
+- Connected the frontend to a custom backend API.
+- Loaded project data from MongoDB through REST API endpoints.
+- Implemented backend search, filtering, and sorting for projects.
+- Added multilingual project content.
+- Built a contact form connected to the backend.
+- Implemented email delivery through the backend.
+- Added loading, empty, and error states.
+- Deployed the frontend and backend separately.
+
+### Tech Stack
+
+**Frontend:** React, TypeScript, Vite  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB  
+**Deployment:** Vercel + Render
+
+### 🔗 Links
+
+🌐 Live Demo  
+https://portfolio-front-dun-nine.vercel.app/
+
+💻 Frontend Repository  
+https://github.com/vladyslav-980/portfolio-front
+
+⚙️ Backend Repository  
+https://github.com/vladyslav-980/portfolio-back
+
+---
 
 ## 🍽️ Tasteorama
 
@@ -75,6 +111,36 @@ https://github.com/Andross-s/final_project_Fullstack-Force_back
 ---
 
 # 📂 Other Projects
+
+## 🏥 SavMed Clinic
+
+A full-stack medical clinic website with online appointment functionality and backend integration.
+
+### Key features
+
+- Built a responsive clinic website.
+- Developed appointment creation, listing, and cancellation logic.
+- Added doctor availability management.
+- Integrated MongoDB Atlas.
+- Built backend REST API endpoints with Express.js.
+- Implemented multilingual content and responsive sections.
+- Deployed the application for public access.
+
+### Tech Stack
+
+**Frontend:** React / Next.js  
+**Backend:** Node.js, Express.js  
+**Database:** MongoDB
+
+### 🔗 Repositories
+
+💻 Frontend Repository  
+https://github.com/vladyslav-980/savmed-clinic
+
+⚙️ Backend Repository  
+https://github.com/vladyslav-980/savmed-back
+
+---
 
 ## 🍦 IceCream Landing
 
@@ -110,10 +176,8 @@ https://github.com/vladyslav-980/09-auth
 
 # 📫 Contact
 
-💼 LinkedIn
-
+💼 LinkedIn  
 https://www.linkedin.com/in/vladyslav-huminiuk/
 
-📧 Email
-
+📧 Email  
 vldgum@gmail.com
